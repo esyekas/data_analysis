@@ -1,2 +1,2 @@
-# data_analysis
+# Data Analysis
 Data analysis of Toyota
